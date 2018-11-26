@@ -1,0 +1,4 @@
+import os
+
+
+PORT_FINGERPRINTSCANNER = 'COM8' # 5v
